@@ -1,0 +1,20 @@
+
+：https://www.afanihao.cn
+ctrl+s   保存
+ctrl c/v 复制/粘贴
+ls/cd/pwd   列表/目录的切换/和查看当前目录位置
+mkdir/rmdir  创建/删除目录       mkdir -p abc/456/test  创建多层目录
+     rm 删除文件或目录  rm  -rf abc 删除 abc 和子项   f表示强制
+cp/rm/mv      复制/删除/移动 重命名 cp -rf example example2
+              mv 
+tar/zip/unzip 打包/压缩/解压缩
+In ...      快捷方式
+
+ls -l
+ ～  用户主目录    cd ~  回到主目录  cd ~/123 进入子目录
+ . 当前目录
+ ..上级目录
+ mkdir 创建目录
+ 
+ 归档压缩操作
+ tar 即tape archive 归档打包
